@@ -1,4 +1,6 @@
-# WorldRuler: Interactive World Modeling under Configurable Rules
+# WorldRuler
+
+### Interactive World Modeling under Configurable Rules
 
 <p align="center">
   <a href="https://alaya-lab.github.io/WorldRuler/"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
