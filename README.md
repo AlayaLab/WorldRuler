@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://alaya-lab.github.io/WorldRuler/"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
   <a href="https://huggingface.co/datasets/AlayaLab/RuleVerse"><img src="https://img.shields.io/badge/Hugging_Face-Dataset-yellow" alt="Dataset on Hugging Face"></a>
-  <a href="https://huggingface.co/AlayaLab/WorldRuler"><img src="https://img.shields.io/badge/Hugging_Face-Models-yellow" alt="Models on Hugging Face"></a>
+  <a href="https://huggingface.co/AlayaLab/WorldRuler"><img src="https://img.shields.io/badge/Hugging_Face-Models-purple" alt="Models on Hugging Face"></a>
   <a href="https://arxiv.org/abs/2611.24869"><img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper on arXiv"></a>
 </p>
 
