@@ -1,6 +1,6 @@
-# WorldRuler
+<h1 align="center">WorldRuler</h1>
 
-### Interactive World Modeling under Configurable Rules
+<h2 align="center">Interactive World Modeling under Configurable Rules</h2>
 
 <p align="center">
   <a href="https://alaya-lab.github.io/WorldRuler/"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
